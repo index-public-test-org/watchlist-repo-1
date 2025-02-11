@@ -3,6 +3,6 @@
 
 public enum Package1 {
     static func hello() {
-        print("Hello World! [4]")
+        print("Hello World! [5]")
     }
 }
